@@ -17,6 +17,7 @@ All payments are processed securely by:
 
 Apple App Store
 Google Play Store
+
 We do not collect or store payment information. Subscription management, billing, renewals, and cancellations are handled entirely by Apple or Google through your account settings.
 
 4. Free and Paid Features
@@ -26,9 +27,9 @@ Some features of the App may be available without payment, while others require 
 You agree to use the App for lawful purposes only and in a way that does not interfere with its operation or misuse its content.
 
 You may not:
-
 Attempt to reverse engineer or modify the App
 Use the App in a way that violates applicable laws
+
 6. No Medical or Professional Advice
 The App is not intended to provide medical, mental health, legal, or professional advice. Any content provided is for general informational and personal reflection purposes only.
 
