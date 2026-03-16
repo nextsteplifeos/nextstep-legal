@@ -47,4 +47,4 @@ The latest version of these Terms will always be available at this URL.
 You may stop using the App at any time by uninstalling it from your device. Subscription cancellations must be handled through your Apple or Google account.
 
 10. Contact
-If you have questions about these Terms, you can contact us at: nextsteplifeos@gmail.com
+If you have questions about these Terms, you can contact us at: NextStepLifeOS@gmail.com
