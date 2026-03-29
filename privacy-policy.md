@@ -1,6 +1,6 @@
 Last updated: March 15, 2026
 
-NextStep Life OS (“the App”) is designed to provide a calm, simple, and emotionally safe experience. The App does not require an account and does not collect personal information.
+This app is designed to provide a calm, simple, and emotionally safe experience. The App does not require an account and does not collect personal information.
 
 This Privacy Policy explains what information is (and is not) collected when you use the App.
 
