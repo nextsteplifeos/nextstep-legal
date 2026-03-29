@@ -1,6 +1,6 @@
 Last updated: March 15, 2026
 
-These Terms of Use (“Terms”) govern your use of the NextStep Life OS mobile application (“the App”). By downloading or using the App, you agree to these Terms.
+These Terms of Use (“Terms”) govern your use of the mobile application (“the App”). By downloading or using the App, you agree to these Terms.
 
 If you do not agree with these Terms, please do not use the App.
 
