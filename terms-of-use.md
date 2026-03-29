@@ -5,7 +5,7 @@ These Terms of Use (“Terms”) govern your use of the mobile application (“t
 If you do not agree with these Terms, please do not use the App.
 
 1. About the App
-NextStep Life OS is a calm, login‑free application designed to support gentle next actions, reflection, and personal clarity. The App is intended for general personal use and is not a substitute for professional advice.
+The App is a login‑free application designed to support gentle next actions, reflection, and personal clarity. The App is intended for general personal use and is not a substitute for professional advice.
 
 2. No Accounts Required
 The App does not require account creation or sign‑in. All usage is local to your device unless otherwise stated.
